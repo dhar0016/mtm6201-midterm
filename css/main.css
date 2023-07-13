@@ -47,4 +47,10 @@ header .user{
     margin-right: 30px;
  }
 
- 
+ header .user img{
+    width: 50px;
+    height: 50px;
+
+    border-radius: 50%;
+    border: 3px #AA764D solid;
+ }
