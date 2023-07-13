@@ -54,3 +54,9 @@ header .user{
     border-radius: 50%;
     border: 3px #AA764D solid;
  }
+
+ /*User name properties*/
+ header .user p{
+    font-size: 14px;
+    color: #AA764D;
+ }
