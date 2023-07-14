@@ -262,16 +262,22 @@ section.item-display-sec .right-side .item-image-box{
 
 }
 
+/*Product main image*/
 section.item-display-sec .right-side .item-image-box .main-image{
     flex-basis:calc(80%-10px);
     overflow: hidden;
     border-radius: 5px;
 }
 
+/*animate image zoom when page load */
 section.item-display-sec .right-side .item-image-box .main-image img{
     animation-name: zoom;
     animation-duration:4s;
     animation-direction: alternate;
 }
 
+@keyframes zoom {
+    from {transform: scale(1);}
+    to {transform: scale(1.2);}
+}
 
