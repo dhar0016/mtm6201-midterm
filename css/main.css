@@ -105,3 +105,25 @@ header .user{
     display: none;
 }
 
+/**************************************************************************************************************************************************/
+
+section.menu-sec{
+    width: 100%;
+    height: auto;
+
+    margin-top: 70px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+section.menu-sec h1{
+    color:#442C23;
+}
+
+
+
+
+
