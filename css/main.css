@@ -86,3 +86,8 @@ header .user{
     transition: 0.36s ease;
  }
  
+ /*Hover for navigation*/
+ nav ul li:hover{
+    border-bottom: 2px #AA764D solid;
+ }
+
