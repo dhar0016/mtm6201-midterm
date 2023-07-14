@@ -100,4 +100,8 @@ header .user{
     color: #D69D6E;
  }
 
- 
+ /*Hide Mobile Navigation button*/
+ #mobileNavBtn{
+    display: none;
+}
+
