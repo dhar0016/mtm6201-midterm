@@ -107,6 +107,7 @@ header .user{
 
 /**************************************************************************************************************************************************/
 
+/*Menu Section*/
 section.menu-sec{
     width: 100%;
     height: auto;
@@ -123,6 +124,23 @@ section.menu-sec h1{
     color:#442C23;
 }
 
+
+section.menu-sec .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    padding: 50px;
+  }
+
+  /*image row*/
+  section.menu-sec .container  .row {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
 
 
 
