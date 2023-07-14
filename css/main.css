@@ -281,3 +281,32 @@ section.item-display-sec .right-side .item-image-box .main-image img{
     to {transform: scale(1.2);}
 }
 
+
+
+/*product item extra image - desktop view*/
+section.item-display-sec .right-side .item-image-box .side-images{
+    flex-basis: 20%;
+    padding-left: 10px;
+}
+
+/* item details */
+section.item-display-sec .left-side {
+    flex-basis: 40%;
+
+}
+
+
+section.item-display-sec .left-side .price{
+    font-size: 50px;
+
+}
+
+/*Term and condition with check box*/
+section.item-display-sec .left-side .term{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+/************************************************************************************************************************************/
+
