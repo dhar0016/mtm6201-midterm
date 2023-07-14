@@ -205,8 +205,27 @@ footer{
 
 /*.......................................................................*/
 
+/* Popular product page styling */
+
+/* popular product price */
+
 .price{
     color: #bb3bee;
     font-weight: bold;
 }
 
+
+
+/*Cart page styling*/
+
+section.cart-sec{
+    width: 100%;
+    height: auto;
+
+    margin-top: 70px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
