@@ -91,3 +91,13 @@ header .user{
     border-bottom: 2px #AA764D solid;
  }
 
+ 
+/*Navigation text size set, color, and bold text */
+ nav ul li a{
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #D69D6E;
+ }
+
+ 
