@@ -60,3 +60,29 @@ header .user{
     font-size: 14px;
     color: #AA764D;
  }
+
+ /*Navigation Settings*/
+ nav {
+    width: 100%;
+    height: auto;
+
+    margin-top: 30px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ nav ul{
+    list-style-type: none;
+    display: flex;
+ }
+
+ /*Navigation item properties*/
+ 
+ nav ul li {
+    margin-left: 30px;
+    border-bottom: 2px transparent solid;
+    transition: 0.36s ease;
+ }
+ 
