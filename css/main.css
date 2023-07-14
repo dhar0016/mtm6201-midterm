@@ -183,5 +183,11 @@ section.video-sec video{
     border-radius: 10px;
 }
 
+/*heading*/
+section.video-sec h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
 
 
