@@ -417,6 +417,7 @@ section.recoment-sec  .image-wrapper img {
         margin-top: 20px;
     }
 
+    /*Mobile nav button display*/
     #mobileNavBtn{
         display: block;
         margin-right: 20px;
@@ -426,6 +427,7 @@ section.recoment-sec  .image-wrapper img {
         flex-direction:row;
     }
 
+    /*Remove the desktop nav bar*/
     nav ul{
         display: none;
     }
@@ -433,7 +435,7 @@ section.recoment-sec  .image-wrapper img {
     header .welcome-banner{
         display: none;
     }
-
+/*remove the user avatar*/
     header .user{
         display: none;
     }
